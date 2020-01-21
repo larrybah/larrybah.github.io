@@ -1,0 +1,20 @@
+{
+  "name": "larrybah.github.io",
+  "version": "1.0.0",
+  "description": "Just a landing page",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d larrybah.gihub.io"
+  },
+  "repository": {
+    "type": "git", 
+    "url": "git+https://github.com/larrybah/larrybah.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larrybah/larrybah.github.io/issues"
+  },
+  "homepage": "https://github.com/larrybah/larrybah.github.io#readme"
+}
