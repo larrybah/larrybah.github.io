@@ -7,7 +7,7 @@
     "deploy": "gh-pages -d larrybah.gihub.io"
   },
   "repository": {
-    "type": "git", 
+    "type": "git",
     "url": "git+https://github.com/larrybah/larrybah.github.io.git"
   },
   "keywords": [],
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/larrybah/larrybah.github.io/issues"
   },
-  "homepage": "https://github.com/larrybah/larrybah.github.io#readme"
+  "homepage": "https://github.com/larrybah/larrybah.github.io/index.html",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
 }
