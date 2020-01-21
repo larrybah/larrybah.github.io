@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/larrybah/larrybah.github.io/issues"
   },
-  "homepage": "https://github.com/larrybah/larrybah.github.io/index.html",
+  "homepage": "https://github.com/larrybah/larrybah.github.io",
   "dependencies": {
     "gh-pages": "^1.2.0"
   }
