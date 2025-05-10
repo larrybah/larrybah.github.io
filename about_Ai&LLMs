@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Learn about AI and Large Language Models (LLMs).">
+    <title>About AI & LLMs</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>About AI & LLMs</h1>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/about">About</a></li>
+                <li><a href="/contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Introduction</h2>
+            <p>Artificial Intelligence (AI) and Large Language Models (LLMs) are transforming the way we interact with technology.</p>
+        </section>
+        <section>
+            <h2>What are LLMs?</h2>
+            <p>LLMs are advanced AI systems trained on vast amounts of text data to understand and generate human-like language.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Larry Bah. All rights reserved.</p>
+    </footer>
+</body>
+</html>
