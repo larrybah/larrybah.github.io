@@ -18,12 +18,55 @@ Hi! I'm Larry Bah, a passionate developer and tech enthusiast. I love building w
 
 ---
 
+## 🌟 Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **GitHub Pages**
+
+---
+
 ## 📂 Project Structure
 
 ```plaintext
 /
-├── [index.html](http://_vscodecontentref_/1)       # Main landing page
+├── index.html       # Main landing page
+├── about_Ai&LLMs.html # AI & LLMs information page
 ├── styles/          # CSS styles
 ├── scripts/         # JavaScript files
 ├── assets/          # Images and other assets
-└── [README.md](http://_vscodecontentref_/2)        # This file
+└── README.md        # This file
+```
+
+---
+
+## 🛠️ How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/larrybah/larrybah.github.io.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd larrybah.github.io
+   ```
+3. Open `index.html` in your browser.
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub**: [larrybah](https://github.com/larrybah)
+- **LinkedIn**: [Larry Bah](https://linkedin.com/in/larrybah)
+- **Twitter**: [@LarryBah3](https://x.com/LarryBah3)
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Thanks for visiting! ✨
